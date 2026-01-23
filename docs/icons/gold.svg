@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 600 600" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="300.0097" y1="216.1667" x2="300.0097" y2="383.8333">
+	<stop  offset="0.1084" style="stop-color:#EEAA1F"/>
+	<stop  offset="1" style="stop-color:#BFB031"/>
+</linearGradient>
+<circle fill="url(#SVGID_1_)" cx="300" cy="300" r="83.8"/>
+<circle fill="#F7B917" cx="300" cy="300" r="80.5"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="300.0097" y1="235.5959" x2="300.0097" y2="364.4041">
+	<stop  offset="0" style="stop-color:#E8C91D"/>
+	<stop  offset="0.2847" style="stop-color:#E9C820"/>
+	<stop  offset="0.5432" style="stop-color:#EEC22A"/>
+	<stop  offset="0.7908" style="stop-color:#F6B93A"/>
+	<stop  offset="0.8916" style="stop-color:#FCB441"/>
+</linearGradient>
+<circle fill="url(#SVGID_2_)" cx="300" cy="300" r="64.4"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="235.6055" y1="330.162" x2="364.4138" y2="330.162">
+	<stop  offset="0" style="stop-color:#F99E1F"/>
+	<stop  offset="0.5616" style="stop-color:#E9C91C"/>
+	<stop  offset="1" style="stop-color:#E8C91D"/>
+</linearGradient>
+<path fill="url(#SVGID_3_)" d="M364.3,295.9c-0.5,35.1-29.1,63.4-64.3,63.4c-34.7,0-62.9-27.5-64.3-61.9c0,0.8-0.1,1.7-0.1,2.5
+	c0,35.6,28.8,64.4,64.4,64.4c35.6,0,64.4-28.8,64.4-64.4C364.4,298.6,364.4,297.3,364.3,295.9z"/>
+<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="235.6055" y1="270.162" x2="364.4138" y2="270.162">
+	<stop  offset="0.1084" style="stop-color:#EEAA1F"/>
+	<stop  offset="1" style="stop-color:#BFB031"/>
+</linearGradient>
+<path fill="url(#SVGID_4_)" d="M364.3,304.4c-0.5-35.1-29.1-63.4-64.3-63.4c-34.7,0-62.9,27.5-64.3,61.9c0-0.8-0.1-1.7-0.1-2.5
+	c0-35.6,28.8-64.4,64.4-64.4c35.6,0,64.4,28.8,64.4,64.4C364.4,301.7,364.4,303.1,364.3,304.4z"/>
+<path fill="#F3BC19" d="M380.4,296.4l-6.9,5.4l-9.2-5.7c0.1,1.3,0.1,2.6,0.1,3.9c0,35.6-28.8,64.4-64.4,64.4
+	c-34.6,0-62.9-27.4-64.3-61.7l-3.5,1.1L220,291.1c-0.3,2.9-0.5,5.9-0.5,8.9c0,44.5,36,80.5,80.5,80.5c44.5,0,80.5-36,80.5-80.5
+	C380.5,298.8,380.5,297.6,380.4,296.4z"/>
+<image width="669" height="352" id="XMLID_3_" xlink:href="DB4ADB65.png"  transform="matrix(0.24 0 0 0.24 220.0014 219.4948)">
+</image>
+</svg>

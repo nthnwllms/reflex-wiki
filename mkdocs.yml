@@ -66,3 +66,5 @@ extra:
     - icon: fontawesome/brands/twitter
       link: https://x.com/ReflexArena
       name: Reflex Arena on Twitter
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css

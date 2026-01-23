@@ -6,12 +6,12 @@ Overview of Reflex Arena's networking, latency, interpolation, and how to config
 
 
 ## Where to aim with lag
-
+---
 The new Reflex netcode uses a combination of extrapolation and backwards reconciliation in attempt to keep what you're seeing consistent across clients and servers. This lag compensation has an upper limit of 80ms -- if you have more than an 80ms ping, you'll need to lead by ping - 80ms. I.e, if your ping is 100ms, you'll need to lead by 20ms. Our backwards reconciliation has the same limit -- if your enemy has a ping of over 80ms, they won't be able to shoot you from 500ms in the past. 
 
 
 ## How Reflex Arena's netcode works
-
+---
 Time(0): player shoots locally
 
 Time(1): client sends packet to server saying he shot
@@ -34,6 +34,7 @@ Key points:
 So ultimately, rockets will look to come out further in front of you. I believe quake doesn't do the extrapolation as hard as us, which is the cause, but I could be wrong, i'm more familiar with reflex code. 
 
 ## Technical Breakdown
+---
 In a [Reddit thread](https://web.archive.org/web/20241208004818/https://np.reddit.com/r/truegaming/comments/2ruqba/advances_in_fps_netcode/cnkhpyg/), Reflex's lead programmer explains how the netcode in Reflex works.
 
 We both extrapolate and backwards reconciliate by half ping.
